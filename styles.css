@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica Neue", Arial, serif;
+}
+canvas {
+    display: block;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+}
+.info {
+    width: 400px;
+    margin: 5px auto;
+}
+.info .score {
+    padding-left: 5px;
+    float: left;
+}
+.info .diff {
+    padding-right: 5px;
+    float: right;
+}
